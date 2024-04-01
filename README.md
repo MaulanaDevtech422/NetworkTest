@@ -11,7 +11,18 @@ Script program ini dirilis di bawah Lisensi MIT. Artinya, siapa pun dapat menggu
 
 ## Pembatasan
 Meskipun bersifat open source, dilarang keras untuk menyalin atau mengklaim hak cipta atas script ini sebagai milik Anda sendiri. Plagiat dan pengalihan hak cipta akan ditindak sesuai dengan hukum yang berlaku.
-
+##car#cara install via github
+## cara install di cli
+- pkg update && pkg upgrade
+- pkg install ruby
+- gem install lolcat 
+- pkg install python3 -y
+- pip install speedtest-cli
+- pkg install php
+- cd speedtest
+- chmod +x MaulanHub.sh
+- ./MaulanHub.sh
+#finish dan script bisa di jalankan
 ## Kontak
 Jika Anda memiliki pertanyaan lebih lanjut atau ingin menghubungi MaulanDevtech terkait script ini, silakan hubungi melalui:
 
